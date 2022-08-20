@@ -1,5 +1,5 @@
 # **ELK(Elasticsearch-Logstash-Kibana) + Spring Boot Microservice**
-Registro centralizado en la arquitectura de microservicios utilizando ELK(Elasticsearch-Logstash-Kibana) + Spring Boot Microservice.
+Registro centralizado en la arquitectura de microservicios utilizando ELK(Elasticsearch-Logstash-Kibana) + Spring Boot Microservice
 
 ## **Requisito Java 17 para Elasticsearch**
 
