@@ -1,0 +1,11 @@
+#http://localhost:9898/getUser/1
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9898
+
+logging:
+  file:
+    name: D:\JuanCondori\Documentos\IntelliJ_IDEA\ELK\elk-stack-example\logstash\logstash.log
