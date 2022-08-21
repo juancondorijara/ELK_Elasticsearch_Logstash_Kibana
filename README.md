@@ -4,8 +4,7 @@ Registro centralizado en la arquitectura de microservicios utilizando ELK(Elasti
 ## **ELK Caracaracterística**
 
 ![](imagenes/elk_caracteristica1.png)
-
-![](imagenes/elk_elk_caracteristica2.png)
+![](imagenes/elk_caracteristica2.png)
 
 ## **ELK en la demo**
 
